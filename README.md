@@ -1,2 +1,2 @@
 # dio-desafio-estacionamento
-Repositório destinado ao desafio do estacionamento do bootcamp Québec Java Digital.
+Repositório destinado ao desafio de desenvolver um conjunto de API’s utilizando Spring Boot para controlar um estacionamento de veículos. Serão controlados a entrada, saída e valor a ser cobrado do cliente. Iremos aplicar todas as boas práticas de desenvolvimento de API’s incluindo segurança com Spring Security e acesso a banco de dados PostgreSQLao desafio do estacionamento do bootcamp Québec Java Digital.
